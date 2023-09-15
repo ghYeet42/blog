@@ -31,4 +31,14 @@ print("peice of bacon")
 1. real
 2. real
 ---
-<p style="color: red;">peice of bacon<p>
+<p style="color: red;">peice of bacon?<p>
+
+## Recent Posts
+
+<ul>
+    {% for post in site.posts %}
+        <li>
+            <a href="{{ 2023-09-15-hellowrld.md }}">{{ hellowrld }}</a>
+        </li>
+    {% endfor %}
+</ul>
