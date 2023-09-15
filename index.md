@@ -38,7 +38,7 @@ print("peice of bacon")
 <ul>
     {% for post in site.posts %}
         <li>
-            <a href="/blog/{{ post.url }}">{{ hellowrld }}</a>
+            <a href="/blogs{{ post.url }}">{{ hellowrld }}</a>
         </li>
     {% endfor %}
 </ul>
