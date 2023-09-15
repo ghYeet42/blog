@@ -1,0 +1,3 @@
+This is my first blog and first expeirence using markdown. I'm also updating my linked in rn (freestyle gangster rapper). I did a lot over the summer. I had a dual intership with Microsoft and Google thanks to David Jones from The Code/Cipher Group. I met a bunch of cool people with like-minded interests as me. 
+
+I also participated in a program called Global Glimpse. I traveled with them to Jarabacoa, Dominican Republic over the summer. We stayed there for 2 weeks and learned what its like to live in a different country. We also had basically no access to technology because from day one of the trip, part of the agreement was that our phones would be taken away and given back to us when we are leaving. It was really fun though.

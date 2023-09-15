@@ -16,9 +16,14 @@ print("peice of bacon")
 
 ---
 
-This is ==funn== :joy:
 
-> block quote?
+> no pressure? no diamonds!
+
+![My pfp](/assests/v742lscv89z41.jpeg)
+
+```HTML
+<img src="/assests/my_picture.jpg" style="color:blue; text-align:center;">
+```
 
 - real
 - real
